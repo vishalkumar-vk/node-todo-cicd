@@ -1,7 +1,6 @@
 // Requiring module
 const assert = require('assert');
 //sample comment for jenkins build
-//sample comment
 // We can group similar tests inside a describe block
 describe("Simple Calculations", () => {
 before(() => {
